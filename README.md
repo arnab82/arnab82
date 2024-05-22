@@ -10,6 +10,6 @@
 </a>
 
 <a href="https://scholar.google.com/citations?user=PuRHCSYAAAAJ&hl=en" target="_blank">
-<img src=https://img.icons8.com/color/96/000000/google-scholar--v3.png?&style=for-the-badge&logo=google scholar&logoColor=white alt=google scholar width= "35px" style="margin-bottom: 1px;"/>
+<img src=https://img.icons8.com/color/96/000000/google-scholar--v3.png?&style=for-the-badge&logo=google scholar&logoColor=white alt=google scholar width= "32px" style="margin-bottom: 1px;"/>
 </a>
 </div>
