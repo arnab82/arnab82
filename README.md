@@ -13,3 +13,8 @@
 <img src=https://img.icons8.com/color/96/000000/google-scholar--v3.png?&style=for-the-badge&logo=google scholar&logoColor=white alt=google scholar width= "32px" style="margin-bottom: 1px;"/>
 </a>
 </div>
+
+##
+
+- Phd Candidate at [Mayhall Group](https://nmayhall-vt.github.io/group_website/), Department of Chemistry, [Virginia Tech](https://vt.edu)
+- Previously at [EST Group](https://achintyachemist.wixsite.com/achintya), MS Chemistry from [IIT Bombay](https://www.iitb.ac.in/)
