@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <div align="center" markdown="1">
 <h4>Graduate Student | Computational Chemistry | Enthusiast in Quantum Computing</h4>
 
@@ -11,6 +11,9 @@
 
 <a href="https://scholar.google.com/citations?user=PuRHCSYAAAAJ&hl=en" target="_blank">
 <img src=https://img.icons8.com/color/96/000000/google-scholar--v3.png?&style=for-the-badge&logo=google scholar&logoColor=white alt=google scholar width= "32px" style="margin-bottom: 1px;"/>
+</a>
+<a href="https://orcid.org/my-orcid?orcid=0009-0000-1170-0078" target="_blank">
+<img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID" style="margin-bottom: 5px;" />
 </a>
 </div>
 
