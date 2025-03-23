@@ -1,6 +1,6 @@
 
 <div align="center" markdown="1">
-<h4>Graduate Student | Computational Chemistry | Enthusiast in Quantum Computing</h4>
+<h4>Graduate Student | Computational Chemistry | Quantum Computing</h4>
 
 <a href="https://www.linkedin.com/in/arnab-bachhar-1a31301ba/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
