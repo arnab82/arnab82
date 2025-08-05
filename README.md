@@ -19,5 +19,5 @@
 
 ##
 
-- Phd Candidate at [Mayhall Group](https://nmayhall-vt.github.io/group_website/), Department of Chemistry, [Virginia Tech](https://vt.edu)
-- Previously at [EST Group](https://achintyachemist.wixsite.com/achintya), MS Chemistry from [IIT Bombay](https://www.iitb.ac.in/)
+- Phd Candidate at [Mayhall Group](https://nmayhall-vt.github.io/group_website/), Department of Chemistry, [IU Bloomington](https://http://www.chem.indiana.edu) 
+- Previously at [Virginia Tech](https://vt.edu), [EST Group](https://achintyachemist.wixsite.com/achintya), MS Chemistry from [IIT Bombay](https://www.iitb.ac.in/).
